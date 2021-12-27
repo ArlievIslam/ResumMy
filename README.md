@@ -1,2 +1,2 @@
-# Resume Of Arliev Islam
-Create Resume POVTAS-2
+# Portfolio Of Arliev Islam
+Create Portfolio POVTAS-2
